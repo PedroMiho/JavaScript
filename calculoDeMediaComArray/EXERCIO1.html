@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+    <html lang="pt-BR">
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../../HTML_CSS-MODULO1/imagens/emoji.ico" type="image/x-icon">
+    <title>Modelo de exercicio</title>
+    <link rel = "stylesheet" href="estilo.css">
+
+    </head>
+
+    <body>
+
+        <header>
+            <h1>Calculando a Media</h1>
+        </header>
+
+        <section>
+        
+            <div>
+                <table>
+                    
+                    <tr>
+                    <td> Digite as notas das atividades: </td>
+                    <td><input type="text" name="numero" id="txtatividade"></td> 
+                    <td><input type="button" value="Inserir" onclick="atividade1()"></td>
+                    
+
+                    <tr>
+                    <td><select name="tabuada" id="listaAt" size="10"></select></td>
+
+                    <tr>    
+                        <td>Digite as notas das prova:</td>
+                        <td><input type="text" name="numero" id="txtprova"></td> 
+                        <td><input type="button" value="Inserir" onclick="prova1()"></td>
+                       
+                    <tr>
+                    <td><select name="tabuada" id="listaPr" size="10"></select></td>
+                    
+                    <tr>
+                    <td><input type="button" value="Finalizar" onclick="calcular()">
+                    <input type="button" value="Excluir" onclick="excluir()"></td>
+            
+                </table>
+
+                
+            </div>
+
+            <div id="res">
+            
+                                                
+            </div>
+
+        </section>
+
+        <footer>
+            <p>&COPY; CURSOEMVIDEO</p>
+        </footer>
+
+    
+        <script src="script.js"></script>
+
+    
+    </body>
+</html>

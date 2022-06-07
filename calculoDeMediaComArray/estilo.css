@@ -1,0 +1,41 @@
+body{
+    background: rgb(46, 46, 220);
+    font: normal 15pt Arial;
+}
+
+header{
+    font: normal 13pt Arial;
+    color: black;
+    text-align: center;
+    background: white;
+    width: 575px;
+    margin: auto;
+    border-radius: 15px; 
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 550px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(30, 30, 30);
+    line-height: 50px;    
+}
+
+footer {
+    color: white;
+    text-align: center;       
+}
+
+select{
+    font: normal 13pt Arial;
+    width: 300px;   
+}
+
+#txtatividade{
+    width: 100px;
+}
+#txtprova{
+    width: 100px;
+}
