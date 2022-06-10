@@ -34,8 +34,14 @@ select{
 }
 
 #txtatividade{
-    width: 100px;
+    width: 90px;
+    margin-left: -10px;
 }
 #txtprova{
-    width: 100px;
+    width: 90px;
+    margin-left: -10px;
+}
+
+.button{
+    margin-left: -15px;
 }
