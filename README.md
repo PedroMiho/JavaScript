@@ -1,6 +1,6 @@
 # JavaScript
 
- Aqui temos todos os projtos criados por mim, me baseando nas tecnologias JavaScript, HTML5 e CSS3
+ Aqui temos todos os projetos criados por mim, me baseando nas tecnologias JavaScript, HTML5 e CSS3
 
 
 <a href="https://pedromiho.github.io/JavaScript/AnalisadorDeNumeros5/index.html" target="_blank" rel="external"> - ANALISANDO DE NUMEROS </a>
