@@ -38,13 +38,13 @@ select{
 
 #txtatividade{
     width: 90px;
-    margin-left: -10px;
+    margin-left: -20px;
 }
 #txtprova{
     width: 90px;
-    margin-left: -10px;
+    margin-left: -20px;
 }
 
 .button{
-    margin-left: -15px;
+    margin-left: 0px;
 }
